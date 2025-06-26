@@ -13,6 +13,6 @@ const ladoA = parseFloat(prompt("Ingrese el valor del lado A del rectángulo:"))
 const ladoB = parseFloat(prompt("Ingrese el valor del lado B del rectángulo:"));
 
 if (!isNaN(ladoA) && !isNaN(ladoB)) {
-    const perimetro = calculoPerimetro(ladoA, ladoB);
+    const perimetro = calculoPerimetro(ladoA, ladoB); //podria dejarlo asi, o llamar a la funcion directamente desde el document.writeln como hice en el ejercicio 7
     document.writeln(`<p>El perímetro del rectángulo es: ${perimetro}</p>`);
 }
