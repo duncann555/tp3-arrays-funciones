@@ -1,0 +1,37 @@
+TP3 - Arrays y Funciones
+
+Descripción
+Este trabajo práctico contiene 7 ejercicios diseñados para practicar y fortalecer la lógica de programación, enfocándose especialmente en los conceptos y usos de arrays y funciones en JavaScript.
+
+Cada ejercicio aborda diferentes aspectos clave, como manipulación de arreglos, iteraciones, manejo de datos, creación y uso de funciones, y aplicación de condicionales.
+
+Objetivos
+Comprender y aplicar el uso de arrays para almacenar y procesar colecciones de datos.
+
+Desarrollar y utilizar funciones que reciban parámetros y devuelvan resultados.
+
+Mejorar la lógica de programación a través de la resolución de problemas prácticos.
+
+Familiarizarse con métodos y estructuras básicas de JavaScript.
+
+Prepararse para temas avanzados de programación y desarrollo.
+
+Contenido
+Ejercicio 1: Crear y mostrar un array de meses.
+
+Ejercicio 2: Solicitar ciudades al usuario y manipular el arreglo resultante.
+
+Ejercicio 3: Simular lanzamientos de dados y contar apariciones de sumas.
+
+Ejercicio 4: Función para determinar si un número es par o impar.
+
+Ejercicio 5: Funcion que determina si la cadena que fue pasada por parametro es Solo Mayuscalas, Solo Minusculas o mixta.
+
+Ejercicio 6: Calcula el perimetro de un rectangulo.
+
+Ejercicio 7: Muestra tabla de multiplicar, del numero ingresado.
+
+Uso
+Abrir los archivos .js en un entorno compatible o un navegador web.
+
+Ejecutar el código para observar los resultados en consola o en la página.
