@@ -12,7 +12,8 @@ function tablaMultiplicar(numero) {
 }
 const numero = parseInt(prompt("Ingrese un número para mostrar su tabla de multiplicar:"));
 if (!isNaN(numero)) {
-    const tabla = tablaMultiplicar(numero);
     document.writeln(`<h3>Tabla de multiplicar del ${numero}:</h3>`);
-    document.writeln(`<p>${tabla}</p>`);
+    document.writeln(`<p>${tablaMultiplicar(numero)}</p>`);
+}else {
+    document.writeln("<p>El valor ingresado no es un número válido.</p>");
 }

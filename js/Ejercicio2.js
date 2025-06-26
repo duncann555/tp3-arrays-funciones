@@ -30,7 +30,7 @@ if (ciudades.length !== 0) {
   document.writeln("</ul>");
 
   document.writeln(
-    `<h3>B. El arreglo de ciudades tiene : ${ciudades.length} elementos</h3>`
+    `<h3>B. El arreglo de ciudades tiene ${ciudades.length} elementos</h3>`
   );
 
   document.writeln(`<h3>C. Items de la posicion 1,3 y ultima:</h3>`);
